@@ -13,7 +13,8 @@
 3. Дизайн: 
 ![Прототип застосунку](prototype.png)
 
-4. Реалізація (Псевдокод)
+4. Реалізація (Псевдокод):
+
 function addMovie(title, type, status):
     if title is empty:
         return "Помилка: введіть назву"
