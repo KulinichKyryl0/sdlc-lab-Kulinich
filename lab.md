@@ -18,10 +18,8 @@
 function addMovie(title, type, status):
     if title is empty:
         return "Помилка: введіть назву"
-
     item = createItem(title, type, status)
     movieList.add(item)
-
     return "Фільм або серіал додано"
 
 5. Тестування:
